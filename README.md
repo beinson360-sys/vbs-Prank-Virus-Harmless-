@@ -6,6 +6,7 @@ This is a prank "fake" virus in vbs script kit that has a lot of funny Prank vir
 Look at my Website: https://sites.google.com/view/randmsite/startseite (Its German but you can use the translator in your browser lol)
 
 
+
 1: Taskkill.vbs / Makes your taskbar disappear (Press Ctrl + Alt + Delete and go to Restart or Logoff to bring it back again)
 
 2: Lock.vbs / Locks your computer
