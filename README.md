@@ -11,3 +11,4 @@ This is a prank "fake" virus in vbs script kit that has a lot of funny Prank vir
 
 4: TypeShut.vbs / Opens a InputBox with the text "type in yur pin!" if you klick on okay the computer restarts.
 
+5: MsgNote.vbs / Open a msg box and a notepad window with the Text "I SEE YOU!!!"
