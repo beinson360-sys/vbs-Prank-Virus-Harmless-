@@ -18,3 +18,5 @@ Look at my Website: https://sites.google.com/view/randmsite/startseite (Its Germ
 5: MsgNote.vbs / Open a msg box and a notepad window with the Text "I SEE YOU!!!"
 
 6: speak.vbs / Puts your volume up to the max and then reads random letters
+
+7: PowerPoint.vbs / Is made to prank your teacher, it shuts the PC down.
